@@ -1,4 +1,4 @@
-# c_image_as_container
+# Key features of the Image widget in flutter
 
 A new Flutter project.
 
