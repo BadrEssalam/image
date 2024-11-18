@@ -25,7 +25,7 @@ class ImageAsContainer extends StatelessWidget{
       home: Scaffold(
         appBar: AppBar(),
         drawer: const Drawer(),
-        body: Image.asset("images/nature 2.jpg", width: 400, height: 400, fit: BoxFit.contain,),
+        body: Image.asset("images/nature.jpg", width: 400, height: 400, fit: BoxFit.contain,),
       ),
     );
   }
